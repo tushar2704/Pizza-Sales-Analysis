@@ -175,6 +175,130 @@ LIMIT
 	5
 	;
 
+--16)Number of Customers each day & Busiest hours
+
+SELECT
+    order_date,
+    COUNT(DISTINCT order_id) AS num_customers
+FROM
+    pizza_sales
+GROUP BY
+    order_date
+ORDER BY
+    order_date;
+
+
+SELECT
+    EXTRACT(HOUR FROM order_time) AS order_hour,
+    COUNT(DISTINCT order_id) AS num_orders
+FROM
+    pizza_sales
+GROUP BY
+    order_hour
+ORDER BY
+    num_orders DESC;
+
+
+--17)Seasonality trends
+SELECT
+    EXTRACT(MONTH FROM order_date) AS month,
+    COUNT(DISTINCT order_id) AS total_orders
+FROM
+    pizza_sales
+GROUP BY
+    month
+ORDER BY
+    month;
+
+--18)Average Daily Orders
+WITH daily_orders AS (
+    SELECT
+        order_date,
+        COUNT(DISTINCT order_id) AS daily_order_count
+    FROM
+        pizza_sales
+    GROUP BY
+        order_date
+)
+SELECT
+    AVG(daily_order_count) AS avg_orders_per_day
+FROM
+    daily_orders;
+
+--19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

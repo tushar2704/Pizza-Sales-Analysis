@@ -225,7 +225,19 @@ SELECT
 FROM
     daily_orders;
 
---19)
+--19)Average number of pizza per day
+WITH avg_pizza as(
+	SELECT order_date,
+		   COUNT(quantity) as daily_pizza
+	FROM pizza_sales
+	GROUP BY order_date
+
+)
+SELECT
+	AVG(daily_pizza) AS AVG_PIZZA_PER_DAY
+FROM avg_pizza
+	;
+
 
 
 

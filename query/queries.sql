@@ -42,6 +42,20 @@ FROM
 
 
 
+/*------------------------------------------------------------------------------*/
+
+
+--6)Daily Trend for Total Orders
+SELECT
+	TO_CHAR(order_date, 'Day') as order_day,
+	COUNT(DISTINCT order_id) AS Total_orders
+FROM
+	pizza_sales
+GROUP BY
+	order_day
+	;
+	
+--7)Monthly Trend for Total Orders
 
 
 

@@ -6,6 +6,12 @@ Welcome to the Pizza Place Sales repository! Here, you'll find a comprehensive y
 
 ### [@ Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/pizza-sales-analysis)
 
+
+
+![1](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/7c8fc5d9-4832-4687-810c-c9431ab12abc)
+![2](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/1eb157dd-d567-4d35-82ec-56a42e67df8b)
+
+
 ## Dataset Overview
 
 Our dataset offers a treasure trove of insights waiting to be discovered. It contains valuable information that could help us optimize our operations, boost sales, and enhance customer satisfaction. Here's a quick rundown of what you can expect from the dataset:

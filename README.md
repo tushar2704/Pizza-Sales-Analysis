@@ -1,12 +1,10 @@
-# Pizza Sales Analusis
+# Pizza Sales Analysis
 
-Welcome to the Pizza Place Sales repository! Here, you'll find a comprehensive year's worth of sales data from our beloved fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices, and even the delectable ingredients that make them special.
+Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
+
 ## Reports
-### [@ Novapro](https://www.novypro.com/project/pizza-sales-report-2)
-
-### [@ Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/pizza-sales-analysis)
-
-
+### [Novapro](https://www.novypro.com/project/pizza-sales-report-2)
+### [Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/pizza-sales-analysis)
 
 ![1](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/7c8fc5d9-4832-4687-810c-c9431ab12abc)
 ![2](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/1eb157dd-d567-4d35-82ec-56a42e67df8b)
@@ -14,10 +12,8 @@ Welcome to the Pizza Place Sales repository! Here, you'll find a comprehensive y
 
 ## Dataset Overview
 
-Our dataset offers a treasure trove of insights waiting to be discovered. It contains valuable information that could help us optimize our operations, boost sales, and enhance customer satisfaction. Here's a quick rundown of what you can expect from the dataset:
-
+Dataset contains valuable information that could help us optimize our operations, boost sales, and enhance customer satisfaction. Here's a quick rundown of what you can expect from the dataset:
 - Date and Time: We have meticulously recorded the date and time of each order, allowing us to analyze customer behavior and identify potential peak hours.
-
 - Pizza Details: Each entry includes comprehensive details about the pizzas ordered, including their types, sizes, quantities, prices, and the tantalizing ingredients that create an unforgettable culinary experience.
 
 ## Recommended Analysis

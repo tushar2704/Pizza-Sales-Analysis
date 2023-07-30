@@ -1,6 +1,10 @@
 # Pizza Sales Analusis
 
 Welcome to the Pizza Place Sales repository! Here, you'll find a comprehensive year's worth of sales data from our beloved fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices, and even the delectable ingredients that make them special.
+## Reports
+### [@ Novapro](https://www.novypro.com/project/pizza-sales-report-2)
+
+### [@ Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/pizza-sales-analysis)
 
 ## Dataset Overview
 

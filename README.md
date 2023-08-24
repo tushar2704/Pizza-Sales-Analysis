@@ -17,6 +17,10 @@ Pizza Sales Analysis has a comprehensive year's worth of sales data from a ficti
 ### [Interactive report on Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/pizza-sales-analysis)
 ### [SQL Queries Report](https://github.com/tushar2704/Pizza-Sales-Analysis/blob/main/reports/query_report.pdf)
 
+
+### Preview
+https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/c9f4563a-2dfa-45ee-ac1c-4bfcd05173b3
+
 ## Project Structure
 
     ├── LICENSE
@@ -128,3 +132,7 @@ Dataset contains valuable information that could help us optimize our operations
 ## Contact me!
 
 If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
+
+
+
+

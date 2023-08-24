@@ -1,4 +1,5 @@
 # Pizza Sales Analysis
+
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -19,7 +20,9 @@ Pizza Sales Analysis has a comprehensive year's worth of sales data from a ficti
 
 
 ### Preview
-https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/c9f4563a-2dfa-45ee-ac1c-4bfcd05173b3
+
+![pizza4](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/64e1be51-11d3-4579-b2ae-9f12d7624fa1)
+
 
 ## Project Structure
 
@@ -46,8 +49,7 @@ https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/c9f4563a-2dfa
   
 --------
 
-![1](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/7c8fc5d9-4832-4687-810c-c9431ab12abc)
-![2](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/1eb157dd-d567-4d35-82ec-56a42e67df8b)
+
 
 
 
@@ -132,7 +134,8 @@ Dataset contains valuable information that could help us optimize our operations
 ## Contact me!
 
 If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
-
+![1](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/7c8fc5d9-4832-4687-810c-c9431ab12abc)
+![2](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/1eb157dd-d567-4d35-82ec-56a42e67df8b)
 
 
 
